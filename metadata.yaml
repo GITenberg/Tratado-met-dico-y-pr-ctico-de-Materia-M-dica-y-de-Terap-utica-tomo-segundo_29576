@@ -1,0 +1,35 @@
+_repo: Tratado-met-dico-y-pr-ctico-de-Materia-M-dica-y-de-Terap-utica-tomo-segundo_29576
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hernandez y Espeso, Pio
+    alias: Espeso, Pio Hernandez y
+    gutenberg_agent_id: '34004'
+    url: http://www.gutenberg.org/2009/agents/34004
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Espanet, Alexis
+    aliases:
+    - Alexis-Expanet, F.
+    - Espanet, Joseph-Marie-Alexis
+    birthdate: 1811
+    deathdate: 1886
+    gutenberg_agent_id: '34003'
+    url: http://www.gutenberg.org/2009/agents/34003
+description: ''
+gutenberg_issued: '2009-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29576'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RX'
+- !lcsh 'Homeopathy -- Materia medica and therapeutics'
+title: Tratado metódico y práctico de Materia Médica y de Terapéutica, tomo segundo
+url: http://www.gutenberg.org/ebooks/29576
